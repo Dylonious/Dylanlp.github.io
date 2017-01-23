@@ -6,19 +6,24 @@
 	</head>
 	<body>
 		<div id="header">
-			<p id="name">Your Name Here</p>
+			<p id="name">Dylan Leavitt-Phibbs</p>
 			<a href="mailto:you@yourdomain.com"><p id="email">you@yourdomain.com</p></a>
 		</div>
 		<div class="left"></div>
 		<div class="right">
 			<h4>Objective</h4>
-			<p>To take a position as a software engineer.</p>
-			<h4>Experience</h4>
-			<p>Junior Developer, Software Company (2010 - Present)</p>
+			<p>To enter a new career path as a UX Designer.</p>
+			<h4> Experience and how I can apply it to UX Design </h4>
+			<p> Resurant And Hospitality</p>
 			<ul>
-				<li>Designed and implemented end-user features for Flagship Product</li>
+				<li> 4 Bells </li>
 				<li>Wrote third-party JavaScript and Ruby libraries</li>
 			</ul>
+			
+			<ul>
+				<li> Seven Stakehouse, Sushi and Ultralounge </li> 
+			</ul>
+			
 			<h4>Skills</h4>
 			<p>Languages: C#, JavaScript, Python, Ruby</p>
 			<p>Frameworks: .NET, Node.js, Django, Ruby on Rails</p>
