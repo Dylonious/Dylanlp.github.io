@@ -7,28 +7,64 @@
 	<body>
 		<div id="header">
 			<p id="name">Dylan Leavitt-Phibbs</p>
-			<a href="mailto:you@yourdomain.com"><p id="email">you@yourdomain.com</p></a>
 		</div>
 		<div class="left"></div>
 		<div class="right">
 			<h4>Objective</h4>
 			<p> To enter a new career path as a UX Designer. </p>
-			<h4> Experience and how I can apply it to UX Design </h4>
-			<p> 4 Bells Resturant; Expo, Server </p>
+			<h4> Experience </h4>
+			
+			<p>
+			4 Bells Resturant; Expo, Server 
+			1610 Harmon Pl, Minneapolis, MN 55403 
+			Employed: April 2015 - July 2016 
+			Sam Miller (651) 343 -7802
+ 			</p>
+			
+			<p> 
+			Seven Sushi Steakhouse & Ultralounge
+			Bartender, Barback, Host, Event Server & Wait Assistant 700 Hennepin Ave, Minneapolis, MN 55403
+			Employed: Jan. 2011 - April 2015
+			Derrick Koch (651) 343 9557 
+			</p> 
+
+			<p>
+			Town Talk Diner
+			Wait Assistant, Barback, Dish Washer 2707 E Lake Street Minneapolis MN 55406 
+			June 2008 - January 2011
+			Nicholas Kosevich (612) 767 6850
+			</p>
+			
+			<p>
+			Sister Sludge Coffee Shop
+			Barista, Community Art Coordinator
+			4601 Bloomington Ave. Minneapolis MN 55406 June 2007 - August 2009
+			Maggie Meyer (612) 722 3933
+			</p>
+
+			<h4> Applying experience to UX design <h4>
+			
+		
 			<ul>
-				<li> Being an expo you are the bridge of communication between the Head Chef and the floor or all the servers and food runners. It requires a great deal of organization, effecient communication   </li>
-				<li> opening the resurant </li>
+				<li> 
+				Being an expo you are the bridge of communication between the Head Chef and the front of the restaurant.
+				The position requires effecient communication, quailty control, organization, problem solving, 
+				acountibility and working very closely with coworkers. All of these skills can be applied as a UX designer.    
+				</li>
+				
+				<li> 
+				
+				</li>
 				
 				
 			</ul>
 			
-			<ul>
-				<li> Seven Stakehouse, Sushi and Ultralounge </li> 
-			</ul>
+			
 			
 			<h4>Skills</h4>
-			<p>Languages: C#, JavaScript, Python, Ruby</p>
-			<p>Frameworks: .NET, Node.js, Django, Ruby on Rails</p>
+			<p>Event Planning; I have thrown sucessful art shows and concerts at many of the   </p>
+			<p>Communication; </p>
+			<p>
 			<h4>Education</h4>
 			<p>BS, Economics, My University</p>
 			<ul>
@@ -37,7 +73,7 @@
 			</ul>
 		</div>
 		<div id="footer">
-			<p>123 Your Street, Anytown, State 12345-6789 | Tel: (555) 555-5555</p>
+			<p> <a href="dylan.leavitt.phibbs@gmail.com"><p id="email">you@yourdomain.com</p></a> Tel: 763 760-3156</p>
 		</div>
 	</body>
 </html>
