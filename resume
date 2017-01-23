@@ -2,10 +2,9 @@
 <html>
 	<head>
 		<title> Dylan LP's Resume </title>
+		<h1> Dylan LP's Resume </h1>
 	</head>
 	<body>
-		
-		<div class="left"></div>
 		<div class="right">
 			<h4>Objective</h4>
 			<p> To enter a new career path as a UX Designer. </p>
@@ -50,7 +49,7 @@
 				</li>
 				
 				<li> 
-				
+				Being a server presentation can make or break the experience.
 				</li>
 				
 				
@@ -67,11 +66,12 @@
 			Conflict Resolution; I have lead conflict resolution workshops for 
 			youth through the unity summer program at first universalist. 
 			</p>
+			
 			<p>  </p>
 			
 			
 			
-			<Volenteer Work>
+			<h4>Volenteer Work<h4>
 			
 			<ul>
 			<li> Matthews Park Youth Basketball Program </li>
@@ -86,15 +86,18 @@
 			
 			
 			<h4>Education</h4>
-			<p> South High School Minneapolis </p>
+			<p> 
+			South High School Minneapolis 
+			</p>
 			<ul>
-				<li>Student Goverment </li>
-				<li>Co-Captain of Basketball Team </li>
-				<li>GPA: 3.4 </li>
+			<li>Student Goverment </li>
+			<li>Co-Captain of Basketball Team </li>
+			<li>GPA: 3.4 </li>
 			</ul>
 		</div>
+		
 		<div id="footer">
-			<p> <a href="dylan.leavitt.phibbs@gmail.com"><p id="email">dylan.leavitt.phibbs@gmail.com</p></a> Tel: 763 760-3156</p>
+			<p> dylan.leavitt.phibbs@gmail.com </p> <p>Tel: 763 760-3156</p>
 		</div>
 	</body>
 </html>
